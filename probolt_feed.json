@@ -1,0 +1,306 @@
+{
+  "_note": "SAMPLE DATA - SKUs, prices, stock are invented. Bike names taken from Pro-Bolt homepage 'Recently added bikes'; category URLs/images from homepage.",
+  "products": [
+    {
+      "sku": "SMPL-YMT10-CAL-TI",
+      "title": "Titanium Caliper Mount Kit",
+      "product_type": "Caliper Mount Kit",
+      "material": "Titanium",
+      "model_type": [
+        "Yamaha MT-10 2022-2026"
+      ],
+      "price": 89.0,
+      "currency": "GBP",
+      "priority": 1,
+      "in_stock": true,
+      "url": "https://www.pro-bolt.com/search-results/?lp=motorcycle-caliper-mount-kits",
+      "image_url": "https://cdn11.bigcommerce.com/s-5oh0vblukt/images/stencil/original/image-manager/uk-carousel-brake-mount-kits.jpg"
+    },
+    {
+      "sku": "SMPL-YMT10-FUEL-TI",
+      "title": "Titanium Fuel Cap Kit",
+      "product_type": "Fuel Cap Kit",
+      "material": "Titanium",
+      "model_type": [
+        "Yamaha MT-10 2022-2026"
+      ],
+      "price": 34.0,
+      "currency": "GBP",
+      "priority": 2,
+      "in_stock": true,
+      "url": "https://www.pro-bolt.com/search-results/?lp=motorcycle-fuel-cap-kits",
+      "image_url": "https://cdn11.bigcommerce.com/s-5oh0vblukt/images/stencil/original/image-manager/uk-carousel-fuel-cap-kits.jpg"
+    },
+    {
+      "sku": "SMPL-YMT10-AXN-TI",
+      "title": "Titanium Axle Nut Set",
+      "product_type": "Axle Nut Set",
+      "material": "Titanium",
+      "model_type": [
+        "Yamaha MT-10 2022-2026"
+      ],
+      "price": 48.0,
+      "currency": "GBP",
+      "priority": 3,
+      "in_stock": true,
+      "url": "https://www.pro-bolt.com/search-results/?lp=motorcycle-axle-nuts",
+      "image_url": "https://cdn11.bigcommerce.com/s-5oh0vblukt/images/stencil/original/image-manager/uk-carousel-axle-nuts.jpg"
+    },
+    {
+      "sku": "SMPL-YMT10-ENG-SS",
+      "title": "Stainless Steel Engine Case Bolt Kit",
+      "product_type": "Engine Case Bolt Kit",
+      "material": "Stainless Steel",
+      "model_type": [
+        "Yamaha MT-10 2022-2026"
+      ],
+      "price": 42.0,
+      "currency": "GBP",
+      "priority": 4,
+      "in_stock": false,
+      "url": "https://www.pro-bolt.com/stainless-steel/",
+      "image_url": "https://placehold.co/600x600?text=Engine+Case+Bolt+Kit"
+    },
+    {
+      "sku": "SMPL-YMT10-BODY-TI",
+      "title": "Titanium Bodywork Bolt Kit",
+      "product_type": "Bodywork Bolt Kit",
+      "material": "Titanium",
+      "model_type": [
+        "Yamaha MT-10 2022-2026"
+      ],
+      "price": 58.0,
+      "currency": "GBP",
+      "priority": 5,
+      "in_stock": true,
+      "url": "https://www.pro-bolt.com/titanium/",
+      "image_url": "https://placehold.co/600x600?text=Bodywork+Bolt+Kit"
+    },
+    {
+      "sku": "SMPL-RS457-CAL-TI",
+      "title": "Titanium Caliper Mount Kit",
+      "product_type": "Caliper Mount Kit",
+      "material": "Titanium",
+      "model_type": [
+        "Aprilia RS457 2024-2026"
+      ],
+      "price": 85.0,
+      "currency": "GBP",
+      "priority": 1,
+      "in_stock": true,
+      "url": "https://www.pro-bolt.com/search-results/?lp=motorcycle-caliper-mount-kits",
+      "image_url": "https://cdn11.bigcommerce.com/s-5oh0vblukt/images/stencil/original/image-manager/uk-carousel-brake-mount-kits.jpg"
+    },
+    {
+      "sku": "SMPL-RS457-FAIR-TI",
+      "title": "Titanium Fairing Bolt Kit",
+      "product_type": "Fairing Bolt Kit",
+      "material": "Titanium",
+      "model_type": [
+        "Aprilia RS457 2024-2026"
+      ],
+      "price": 96.0,
+      "currency": "GBP",
+      "priority": 2,
+      "in_stock": true,
+      "url": "https://www.pro-bolt.com/titanium/",
+      "image_url": "https://placehold.co/600x600?text=Fairing+Bolt+Kit"
+    },
+    {
+      "sku": "SMPL-RSNJ-AXN-AL",
+      "title": "Aluminium Axle Nut Set",
+      "product_type": "Axle Nut Set",
+      "material": "Aluminium",
+      "model_type": [
+        "Aprilia RS457 2024-2026",
+        "Kawasaki Ninja 500 2024-2027"
+      ],
+      "price": 29.0,
+      "currency": "GBP",
+      "priority": 3,
+      "in_stock": true,
+      "url": "https://www.pro-bolt.com/search-results/?lp=motorcycle-axle-nuts",
+      "image_url": "https://cdn11.bigcommerce.com/s-5oh0vblukt/images/stencil/original/image-manager/uk-carousel-axle-nuts.jpg"
+    },
+    {
+      "sku": "SMPL-NJ500-CAL-SS",
+      "title": "Stainless Steel Caliper Mount Kit",
+      "product_type": "Caliper Mount Kit",
+      "material": "Stainless Steel",
+      "model_type": [
+        "Kawasaki Ninja 500 2024-2027"
+      ],
+      "price": 52.0,
+      "currency": "GBP",
+      "priority": 1,
+      "in_stock": true,
+      "url": "https://www.pro-bolt.com/search-results/?lp=motorcycle-caliper-mount-kits",
+      "image_url": "https://cdn11.bigcommerce.com/s-5oh0vblukt/images/stencil/original/image-manager/uk-carousel-brake-mount-kits.jpg"
+    },
+    {
+      "sku": "SMPL-NJ500-FAIR-SS",
+      "title": "Stainless Steel Fairing Bolt Kit",
+      "product_type": "Fairing Bolt Kit",
+      "material": "Stainless Steel",
+      "model_type": [
+        "Kawasaki Ninja 500 2024-2027"
+      ],
+      "price": 64.0,
+      "currency": "GBP",
+      "priority": 2,
+      "in_stock": true,
+      "url": "https://www.pro-bolt.com/stainless-steel/",
+      "image_url": "https://placehold.co/600x600?text=Fairing+Bolt+Kit"
+    },
+    {
+      "sku": "SMPL-NJ500-FUEL-AL",
+      "title": "Aluminium Fuel Cap Kit",
+      "product_type": "Fuel Cap Kit",
+      "material": "Aluminium",
+      "model_type": [
+        "Kawasaki Ninja 500 2024-2027"
+      ],
+      "price": 27.0,
+      "currency": "GBP",
+      "priority": 3,
+      "in_stock": true,
+      "url": "https://www.pro-bolt.com/search-results/?lp=motorcycle-fuel-cap-kits",
+      "image_url": "https://cdn11.bigcommerce.com/s-5oh0vblukt/images/stencil/original/image-manager/uk-carousel-fuel-cap-kits.jpg"
+    },
+    {
+      "sku": "SMPL-MSV2-ENG-TI",
+      "title": "Titanium Engine Case Bolt Kit",
+      "product_type": "Engine Case Bolt Kit",
+      "material": "Titanium",
+      "model_type": [
+        "Ducati Multistrada V2 890 2025-2026"
+      ],
+      "price": 79.0,
+      "currency": "GBP",
+      "priority": 1,
+      "in_stock": true,
+      "url": "https://www.pro-bolt.com/titanium/",
+      "image_url": "https://placehold.co/600x600?text=Engine+Case+Bolt+Kit"
+    },
+    {
+      "sku": "SMPL-MSV2-CAL-TI",
+      "title": "Titanium Caliper Mount Kit",
+      "product_type": "Caliper Mount Kit",
+      "material": "Titanium",
+      "model_type": [
+        "Ducati Multistrada V2 890 2025-2026"
+      ],
+      "price": 92.0,
+      "currency": "GBP",
+      "priority": 2,
+      "in_stock": true,
+      "url": "https://www.pro-bolt.com/search-results/?lp=motorcycle-caliper-mount-kits",
+      "image_url": "https://cdn11.bigcommerce.com/s-5oh0vblukt/images/stencil/original/image-manager/uk-carousel-brake-mount-kits.jpg"
+    },
+    {
+      "sku": "SMPL-ST765-CAL-TI",
+      "title": "Titanium Caliper Mount Kit",
+      "product_type": "Caliper Mount Kit",
+      "material": "Titanium",
+      "model_type": [
+        "Triumph Street Triple 765 RS 2023-2026"
+      ],
+      "price": 88.0,
+      "currency": "GBP",
+      "priority": 1,
+      "in_stock": true,
+      "url": "https://www.pro-bolt.com/search-results/?lp=motorcycle-caliper-mount-kits",
+      "image_url": "https://cdn11.bigcommerce.com/s-5oh0vblukt/images/stencil/original/image-manager/uk-carousel-brake-mount-kits.jpg"
+    },
+    {
+      "sku": "SMPL-ST765-FUEL-TI",
+      "title": "Titanium Fuel Cap Kit",
+      "product_type": "Fuel Cap Kit",
+      "material": "Titanium",
+      "model_type": [
+        "Triumph Street Triple 765 RS 2023-2026"
+      ],
+      "price": 36.0,
+      "currency": "GBP",
+      "priority": 2,
+      "in_stock": true,
+      "url": "https://www.pro-bolt.com/search-results/?lp=motorcycle-fuel-cap-kits",
+      "image_url": "https://cdn11.bigcommerce.com/s-5oh0vblukt/images/stencil/original/image-manager/uk-carousel-fuel-cap-kits.jpg"
+    },
+    {
+      "sku": "SMPL-ST765-AXN-TI",
+      "title": "Titanium Axle Nut Set",
+      "product_type": "Axle Nut Set",
+      "material": "Titanium",
+      "model_type": [
+        "Triumph Street Triple 765 RS 2023-2026"
+      ],
+      "price": 49.0,
+      "currency": "GBP",
+      "priority": 3,
+      "in_stock": true,
+      "url": "https://www.pro-bolt.com/search-results/?lp=motorcycle-axle-nuts",
+      "image_url": "https://cdn11.bigcommerce.com/s-5oh0vblukt/images/stencil/original/image-manager/uk-carousel-axle-nuts.jpg"
+    },
+    {
+      "sku": "SMPL-F900XR-FAIR-SS",
+      "title": "Stainless Steel Fairing Bolt Kit",
+      "product_type": "Fairing Bolt Kit",
+      "material": "Stainless Steel",
+      "model_type": [
+        "BMW F900 XR 2020-2026"
+      ],
+      "price": 68.0,
+      "currency": "GBP",
+      "priority": 1,
+      "in_stock": true,
+      "url": "https://www.pro-bolt.com/stainless-steel/",
+      "image_url": "https://placehold.co/600x600?text=Fairing+Bolt+Kit"
+    },
+    {
+      "sku": "SMPL-F900XR-CAL-SS",
+      "title": "Stainless Steel Caliper Mount Kit",
+      "product_type": "Caliper Mount Kit",
+      "material": "Stainless Steel",
+      "model_type": [
+        "BMW F900 XR 2020-2026"
+      ],
+      "price": 55.0,
+      "currency": "GBP",
+      "priority": 2,
+      "in_stock": true,
+      "url": "https://www.pro-bolt.com/search-results/?lp=motorcycle-caliper-mount-kits",
+      "image_url": "https://cdn11.bigcommerce.com/s-5oh0vblukt/images/stencil/original/image-manager/uk-carousel-brake-mount-kits.jpg"
+    },
+    {
+      "sku": "SMPL-UNI-M8-TI",
+      "title": "Titanium Universal Flanged Bolt Pack (M8)",
+      "product_type": "Universal Flanged Bolt Pack (M8)",
+      "material": "Titanium",
+      "model_type": [
+        "universal"
+      ],
+      "price": 24.0,
+      "currency": "GBP",
+      "priority": 1,
+      "in_stock": true,
+      "url": "https://www.pro-bolt.com/titanium/",
+      "image_url": "https://placehold.co/600x600?text=Universal+Flanged+Bolt+Pack+(M8)"
+    },
+    {
+      "sku": "SMPL-UNI-ASSORT-SS",
+      "title": "Stainless Steel Universal Bolt Assortment",
+      "product_type": "Universal Bolt Assortment",
+      "material": "Stainless Steel",
+      "model_type": [
+        "universal"
+      ],
+      "price": 19.0,
+      "currency": "GBP",
+      "priority": 2,
+      "in_stock": true,
+      "url": "https://www.pro-bolt.com/stainless-steel/",
+      "image_url": "https://placehold.co/600x600?text=Universal+Bolt+Assortment"
+    }
+  ]
+}
