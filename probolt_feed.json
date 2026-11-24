@@ -59,7 +59,7 @@
       "priority": 4,
       "in_stock": false,
       "url": "https://www.pro-bolt.com/stainless-steel/",
-      "image_url": "https://placehold.co/600x600?text=Engine+Case+Bolt+Kit"
+      "image_url": "https://placehold.co/640x176/111111/ffffff.png?text=Engine+Case+Bolt+Kit"
     },
     {
       "sku": "SMPL-YMT10-BODY-TI",
@@ -74,7 +74,7 @@
       "priority": 5,
       "in_stock": true,
       "url": "https://www.pro-bolt.com/titanium/",
-      "image_url": "https://placehold.co/600x600?text=Bodywork+Bolt+Kit"
+      "image_url": "https://placehold.co/640x176/111111/ffffff.png?text=Bodywork+Bolt+Kit"
     },
     {
       "sku": "SMPL-RS457-CAL-TI",
@@ -104,7 +104,7 @@
       "priority": 2,
       "in_stock": true,
       "url": "https://www.pro-bolt.com/titanium/",
-      "image_url": "https://placehold.co/600x600?text=Fairing+Bolt+Kit"
+      "image_url": "https://placehold.co/640x176/111111/ffffff.png?text=Fairing+Bolt+Kit"
     },
     {
       "sku": "SMPL-RSNJ-AXN-AL",
@@ -150,7 +150,7 @@
       "priority": 2,
       "in_stock": true,
       "url": "https://www.pro-bolt.com/stainless-steel/",
-      "image_url": "https://placehold.co/600x600?text=Fairing+Bolt+Kit"
+      "image_url": "https://placehold.co/640x176/111111/ffffff.png?text=Fairing+Bolt+Kit"
     },
     {
       "sku": "SMPL-NJ500-FUEL-AL",
@@ -180,7 +180,7 @@
       "priority": 1,
       "in_stock": true,
       "url": "https://www.pro-bolt.com/titanium/",
-      "image_url": "https://placehold.co/600x600?text=Engine+Case+Bolt+Kit"
+      "image_url": "https://placehold.co/640x176/111111/ffffff.png?text=Engine+Case+Bolt+Kit"
     },
     {
       "sku": "SMPL-MSV2-CAL-TI",
@@ -255,7 +255,7 @@
       "priority": 1,
       "in_stock": true,
       "url": "https://www.pro-bolt.com/stainless-steel/",
-      "image_url": "https://placehold.co/600x600?text=Fairing+Bolt+Kit"
+      "image_url": "https://placehold.co/640x176/111111/ffffff.png?text=Fairing+Bolt+Kit"
     },
     {
       "sku": "SMPL-F900XR-CAL-SS",
@@ -285,7 +285,7 @@
       "priority": 1,
       "in_stock": true,
       "url": "https://www.pro-bolt.com/titanium/",
-      "image_url": "https://placehold.co/600x600?text=Universal+Flanged+Bolt+Pack+(M8)"
+      "image_url": "https://placehold.co/640x176/111111/ffffff.png?text=Universal+Flanged+Bolt+Pack+M8"
     },
     {
       "sku": "SMPL-UNI-ASSORT-SS",
@@ -300,7 +300,7 @@
       "priority": 2,
       "in_stock": true,
       "url": "https://www.pro-bolt.com/stainless-steel/",
-      "image_url": "https://placehold.co/600x600?text=Universal+Bolt+Assortment"
+      "image_url": "https://placehold.co/640x176/111111/ffffff.png?text=Universal+Bolt+Assortment"
     }
   ]
 }
